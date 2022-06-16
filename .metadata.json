@@ -1,0 +1,18 @@
+[
+  {
+    "package": "benchmarkme",
+    "oncran": true
+  },
+  {
+    "package": "benchmarkmeData",
+    "oncran": true
+  },
+  {
+    "package": "poweRlaw",
+    "oncran": true
+  },
+  {
+    "package": "rtypeform",
+    "oncran": true
+  }
+]
