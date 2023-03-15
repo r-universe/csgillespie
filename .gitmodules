@@ -8,14 +8,14 @@
 	url = https://github.com/csgillespie/benchmarkme
 	shallow = true
 	registered = true
-[submodule "benchmarkmeData"]
-	path = benchmarkmeData
-	url = https://github.com/csgillespie/benchmarkme-data
-	shallow = true
-	registered = true
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/csgillespie/powerlaw
+	shallow = true
+	registered = true
+[submodule "benchmarkmeData"]
+	path = benchmarkmeData
+	url = https://github.com/csgillespie/benchmarkme-data
 	shallow = true
 	registered = true
 [submodule "rtypeform"]
