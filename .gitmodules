@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "benchmarkme"]
 	path = benchmarkme
 	url = https://github.com/csgillespie/benchmarkme
-	shallow = true
-	registered = true
 [submodule "benchmarkmeData"]
 	path = benchmarkmeData
 	url = https://github.com/csgillespie/benchmarkme-data
-	shallow = true
-	registered = true
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/csgillespie/powerlaw
-	shallow = true
-	registered = true
 [submodule "rtypeform"]
 	path = rtypeform
 	url = https://github.com/csgillespie/rtypeform
-	shallow = true
-	registered = true
